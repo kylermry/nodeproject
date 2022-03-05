@@ -1,0 +1,21 @@
+{
+  "name": "my-great-project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylermry/nodeproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylermry/nodeproject/issues"
+  },
+  "homepage": "https://github.com/kylermry/nodeproject#readme"
+}
